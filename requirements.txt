@@ -1,8 +1,8 @@
-Pip install Pandas 
-Pip install Numpy 
-Pip install matplotlib
-Pip install seaborn 
-Pip install sklearn 
-Pip install plotly
-Pip install pickle 
-Pip install flask
+pip install Pandas 
+pip install Numpy 
+pip install matplotlib
+pip install seaborn 
+pip install sklearn 
+pip install plotly
+pip install pickle 
+pip install flask
